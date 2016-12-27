@@ -8,4 +8,9 @@ Kunal Chawla, a fantastic teacher, teaches Python and basic object-oriented prog
 5. Send Text with Twilio: Uses Twilio to send your phone a text message.
 6. Movie Webpage: A webpage that lists your favorite movies and shows their trailers. https://www.youtube.com/watch?v=X0FoelOIZM0&t=1m24s
 
+[Generated HTML](https://github.com/rayning0/python-programming-foundations-udacity-ud036/blob/master/movies/fresh_tomatoes.html)
+
+Screenshot:
+![Alt text](https://raw.githubusercontent.com/rayning0/python-programming-foundations-udacity-ud036/master/movies/Screen%20Shot%20-%20movies%20site.png)
+
 You may also watch all course videos here: http://youtube.com/playlist?list=PLAwxTw4SYaPnYajEbZvqtcVWQ6XGhvtOW
